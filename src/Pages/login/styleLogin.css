@@ -1,0 +1,68 @@
+.Centralizar{
+    background-color: #ccc;
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    
+    border-radius: 5px;
+    width: 80vw;
+    height: 90vh;
+    display: flex;
+}
+.card-1{
+
+    width: 35vw;
+    background-color: #8DC3B4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+.titulo{
+    color: white;
+}
+.sub-titulo-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15px;
+    
+}
+.sub-titulo{
+    color: #808080;
+    font-family: 'Myriad Pro';
+}
+
+
+.card-2{
+    background-color: white;
+    width: 45vw;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card-2-title{
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Serif', serif;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-family: 'Teko', sans-serif;
+
+    font-size: 60px;
+}
+.logo{
+    display: flex;
+    justify-content: space-around;
+    width: 120px;
+}
+i{
+    font-size: 20px;
+}

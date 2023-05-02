@@ -1,0 +1,27 @@
+.centralizar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4px;
+    margin-top: 10px;
+}
+input{
+    border-radius: 3px;
+    border-top: none;
+
+}
+button{
+    width: 90px;
+}
+.input-conte{
+    position: relative;
+    
+    
+}
+label{
+    position:absolute;
+}
+.icon{
+    font-size: 15px;
+}

@@ -1,0 +1,32 @@
+*{
+    font-family: 'Myriad Pro' , 'Orbitron';
+}
+.div-centralizar{
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+
+    flex-wrap: wrap;
+    
+    
+}
+.div-card{
+    width: 400px;
+    height: 220px;
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    justify-content: center;
+    background-color: #c2c2ca;
+
+    border-radius: 6px;
+}
+.img-products{
+    height: 200px;
+    border-radius: 6px;
+}
+/* .btn-products{
+    margin-top: 1000px;
+} */
