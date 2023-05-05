@@ -20,7 +20,7 @@ function BrandExample() {
                 className="d-inline-block align-top"
               />{' '}
                
-              <Link to={'/'} className='info-nav'> Tela inicial</Link>
+              <Link to={'/'} className='info-nav'> Tela Inicial</Link>
         
               
             </Navbar.Brand>
