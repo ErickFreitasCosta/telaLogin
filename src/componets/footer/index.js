@@ -13,11 +13,12 @@ function BrandExample() {
           <Container className='header2'>
             <Navbar.Brand href="#home" className='header-center'>
               <img
-                alt=""
+                alt="logo"
                 src={Logo}
                 width="70"
                 height="60"
                 className="d-inline-block align-top"
+                
               />{' '}
                
               <Link to={'/'} className='info-nav'> Tela Iniciall</Link>

@@ -40,7 +40,7 @@ function Form() {
 
          {data.map((product)=>(
            <div className="div-card" key={product.id}>
-            <div><img src={product.image} className="img-products"/></div>
+            <div><img src={product.image} className="img-products" alt="logos"/></div>
             <div>{product.title}</div>
 
            </div>
